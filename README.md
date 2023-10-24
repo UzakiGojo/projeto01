@@ -1,2 +1,2 @@
 # projeto01
-Códigos referente ao projeto final
+Códigos referente ao protótipo de uma esteira industrial com base no Arduino e com o display DWIN. O mesmo permite o funcionamneto do motor DC, o qual possibilita o funcionamento da esteira. Ademais, contém o código dos sensores ultrassônicos que servem como scanner, contador de produtos e medidor de distância. Por fim, o sensor RFID, que é utlizado para permitir o acesso a cabine de gestão de cabeamentos.
